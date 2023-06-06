@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hello_world">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hello_world/main.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hello_world/tempCodeRunnerFile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

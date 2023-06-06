@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="colecciones">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/colecciones/tempCodeRunnerFile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/colecciones/diccionario.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
